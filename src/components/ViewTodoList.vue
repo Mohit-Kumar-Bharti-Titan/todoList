@@ -39,8 +39,6 @@ ul {
   display: flex;
   flex-direction: column;
   padding: 1px;
-  /* align-items: space-around; */
-  /* justify-content: space-around; */
   flex-wrap: wrap;
   width: 100%;
 }
